@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "e155-DS1722-board")(type "KiCad")(uri "${KIPRJMOD}/e155-DS1722-board.kicad_sym")(options "")(descr ""))
+)
